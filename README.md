@@ -1,5 +1,8 @@
 .............................................   Sorting Visualiser   (RC @May 2, 2022) .........................................
 
+# See Also
+A-Star Path findibg Algorithm Visualiser: https://github.com/ChauhanRohan-RC/PathFinder
+
 # A modular Sorting Algorithms visualiser
 
 1. Many Sorting Algorithms supported (listed below)
